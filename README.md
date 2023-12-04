@@ -21,7 +21,4 @@ X. Exit
 * Entering “4”, you can record bicycles returned, any overtime will be detected and charged extra fee automatically
 * Entering “5”, you can view the sales report today including total revenue, popularity and hourly revenue ranking
 
-
-
-
-
+<img src="https://github.com/Emeryanis/bicycle-rental-system/blob/main/1.png" width="300" height="310"/> <img src="https://github.com/Emeryanis/bicycle-rental-system/blob/main/2.png" width="300" height="310"/> <img src="https://github.com/Emeryanis/bicycle-rental-system/blob/main/3.png" width="410"/>
