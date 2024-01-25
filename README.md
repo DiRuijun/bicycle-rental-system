@@ -1,5 +1,5 @@
 # 🚲 Bicycle-rental-system
-This is a program written with the intent for bicycle rental shop to keep track of bicycle inventory and the sales of the day.
+This is a program written for bicycle rental shop to keep track of bicycle inventory and the sales of the day.
 ## 💰 Rental pricing
 * **Adult Single Bike**: from $8 per hour
 * **Kids Bike**: from $6 per hour
@@ -19,7 +19,7 @@ This is a program written with the intent for bicycle rental shop to keep track 
 * Entering “**4**”, you can record bicycles returned, any overtime will be detected and charged extra fee automatically
 #### 5. Sales Report Today<br />
 * Entering “**5**”, you can view the sales report today including total revenue, popularity and hourly revenue ranking
-### X. Exit<br />
+#### X. Exit<br />
 * Entering “**X**”, you can terminate and exit the system, all transactions will be stored in auto-generated file “sales_list_20230101.csv”
 
 <img src="https://github.com/Emeryanis/bicycle-rental-system/blob/main/1.png" width="300" height="310"/> <img src="https://github.com/Emeryanis/bicycle-rental-system/blob/main/2.png" width="300" height="310"/> <img src="https://github.com/Emeryanis/bicycle-rental-system/blob/main/3.png" width="410"/>
