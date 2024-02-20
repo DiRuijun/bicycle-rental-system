@@ -1,4 +1,4 @@
-# 🚲 Bicycle-rental-system
+# 🚲 Bicycle rental system
 This is a program written for bicycle rental shop to keep track of bicycle inventory and the sales of the day.
 ## 💰 Rental pricing
 * **Adult Single Bike**: from $8 per hour
